@@ -1,0 +1,1 @@
+from .suggestions_serializer import suggestionSerializer
